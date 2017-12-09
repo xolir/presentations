@@ -19,6 +19,11 @@ const fullEventsData = [
     eventName: 'react-putnet',
     eventDate: '12/4/2017',
     eventDescription: 'Introduction to React'
+  },
+  {
+    eventName: 'TBA',
+    eventDate: '12/4/2020',
+    eventDescription: 'TBA'
   }
 ];
 

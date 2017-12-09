@@ -9,7 +9,7 @@ W przegladarce otworz adres *localhost:3000*
 
 ## Przyklady
 ### Webpack
-W folderze example  wpisz komende ```npm install```.
+W folderze example wpisz komende ```npm install```.
 
 Przykladowe configuracje umieszczone sa w podfolderze configs.
 
@@ -22,7 +22,8 @@ Przykladowe configuracje umieszczone sa w podfolderze configs.
 ```npm run build:production``` - kod zoptymalizowany
 
 ### React
-Przyklady zawiera trzy wersje aplikacji pod konkretne platfory
+Przyklady zawieraja trzy wersje aplikacji pod konkretne platformy.
+Wszystkie umieszczone sa w katalogu *example*
 
 *core* - kod pod przegladarki
 ----
@@ -50,6 +51,7 @@ By uruchomic wpisz komendy
 A nastepnie podazaj za wskazowkami wyswietlanymi w konsoli.
 
 *server* - aplikacja renderowana po stronie serwera
+---
 
 By uruchomic wpisz komendy
 
