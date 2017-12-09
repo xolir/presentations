@@ -28,7 +28,6 @@ import preloader from "spectacle/lib/utils/preloader";
 // Import theme
 // import createTheme from "spectacle/lib/themes/default";
 import theme from "../themes/seattlejs/index.js";
-import Interactive from "../assets/interactive";
 
 // Require CSS
 require("normalize.css");
