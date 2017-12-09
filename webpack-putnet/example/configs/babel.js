@@ -2,7 +2,7 @@ const path = require("path");
 
 module.exports = {
   entry: {
-    app: "./src/dynamic/js/AppEntry.js"
+    app: "./src/dynamic/js/appEntry.js"
   },
   module: {
     rules: [
